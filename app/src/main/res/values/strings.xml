@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title"><b>Pikul Labs</b></string>
+    <string name="article_subtitle">Make scrollable app</string>
+    <string name="article_text"> In a real app that accesses magazine or newspaper articles, the articles that appear would probably come from an online source through a content provider, or might be saved in advance in a database on the device.
+
+ For this practical, you will create the article as a single long string in the strings.xml resource.
+
+
+  In the app > res > values folder, open strings.xml.
+Open any text file with a large amount of text, or open the strings.xml file of the finished ScrollingText app.
+Enter the values for the strings article_title and article_subtitle with either a made-up title and subtitle, or use the values in the strings.xml file of the finished ScrollingText app. Make the string values single-line text without HTML tags or multiple lines.
+Enter or copy and paste text for the article_text string.
+You can use the text in your text file, or use the text provided for the article_text string in the strings.xml file of the finished ScrollingText app. The only requirement for this task is that the text must be long enough so that it doesn\'t fit on the screen.
+        This page contains HTML code for creating scrolling text.In a real app that accesses magazine or newspaper articles, the articles that appear would probably come from an online source through a content provider, or might be saved in advance in a database on the device.
+
+ For this practical, you will create the article as a single long string in the strings.xml resource.
+
+
+  In the app > res > values folder, open strings.xml.
+Open any text file with a large amount of text, or open the strings.xml file of the finished ScrollingText app.
+Enter the values for the strings article_title and article_subtitle with either a made-up title and subtitle, or use the values in the strings.xml file of the finished ScrollingText app. Make the string values single-line text without HTML tags or multiple lines.
+Enter or copy and paste text for the article_text string.
+You can use the text in your text file, or use the text provided for the article_text string in the strings.xml file of the finished ScrollingText app. The only requirement for this task is that the text must be long enough so that it doesn\'t fit on the screen.
+        This page contains HTML code for creating scrolling text.
+
+        <b>For more informations,  </b> go to www.google.com</string>
+    <string name="add_comment">ADD COMMENT</string>
+</resources>
